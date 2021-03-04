@@ -1,0 +1,14 @@
+{
+    "terminal.integrated.fontWeight": "normal",
+    "terminal.integrated.automationShell.linux": "",
+    "terminal.integrated.automationShell.windows": "",
+    "terminal.integrated.env.windows": {
+    
+    },
+    "[makefile]": {
+
+        "editor.insertSpaces": false
+    },
+    "editor.fontLigatures": "calt",
+    "terminal.integrated.shell.windows": ""
+}
